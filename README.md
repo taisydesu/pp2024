@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phan Đức Lâm
+* Student Name: Phan Duc Lam
 * Student ID: 23BI14245
 
